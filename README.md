@@ -1,3 +1,3 @@
-# IS-201-Final-Project
+# Spencer's Website
 
-this is my final project for IS 201
+this is my resume website
